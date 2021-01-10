@@ -7,6 +7,7 @@ https://www.kaggle.com/c/lish-moa
 In this competition, I am predicting multiple targets of the Mechanism of Action (MoA) response(s) of different samples (sig_id), given various inputs such as gene expression data and cell viability data.
  
  ## Data
+ - 23K rows
  - Features: Anonymized gene features (772 features) and cell features (100 features)
  - Target: Binary label for 206 targets
  
